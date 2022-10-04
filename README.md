@@ -1,7 +1,7 @@
 ### Hey, I'm Fabio Rezende! 👋
 
 - Living in Recife, Brazil <br>
-- Programmer at [MV](https://mv.com.br/) <br>
+- Programmer at [Mereo](https://mereo.com/) <br>
 
  <div>
   <a href="https://github.com/fabiorez">
